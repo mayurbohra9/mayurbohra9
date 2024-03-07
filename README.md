@@ -3,8 +3,6 @@
 <br clear="both">
 
 <div align="right">
-
-  ###
   ---
   [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
 
@@ -41,7 +39,9 @@
 ###
 <br clear="both">
 
-<table width="100%" border="0">
+<h3 align="center">My Skill Set</h3>
+
+<table border="0" align="center">
 <tr>
 <td valign="top" width="60%">
 
