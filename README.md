@@ -1,11 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 
-###
-
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&left_text=Profile%20Visitors"  />
 
   ###
   ---
@@ -25,9 +22,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning <b>Full Stack Development</b><br>- 👯 I’m looking to collaborate on <b>Freelance Projects</b><br>- 📫 How to reach me:</p>
-
-###
+<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning <b>Full Stack Development</b><br>- 👯 I’m looking to collaborate on <b>Freelance Projects</b><br>- 📫 How to reach me: 👇</p>
 
 <br clear="both">
 
@@ -46,9 +41,9 @@
 ###
 <br clear="both">
 
-<table border="0">
+<table width="100%" border="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
   <h3 align="left">🧑‍💻 Languages & Frameworks</h3>
 
@@ -74,7 +69,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
   <h3 align="left">🛠 Tools</h3>
 
@@ -115,6 +110,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=mayurbohra9&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 
+###
+
 <h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
 
@@ -122,11 +119,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
-
-<h3 align="center">😂 Random Dev Meme</h3>
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
 ###
