@@ -6,6 +6,11 @@
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&left_text=Profile%20Visitors"  />
+
+  ###
+  ---
+  [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 ###
@@ -41,7 +46,7 @@
 ###
 <br clear="both">
 
-<table border="none">
+<table border="0">
 <tr>
 <td valign="top" width="50%">
 
@@ -104,19 +109,20 @@
 ###
 
 <h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
 
 ###
 
 ![](https://github-profile-trophy.vercel.app/?username=mayurbohra9&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
 
 ###
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 <h3 align="center">😂 Random Dev Meme</h3>
 <div align="center">
@@ -126,11 +132,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mayurbohra9/mayurbohra9/output/snake.svg" alt="Snake animation" />
-
-###
-
-
----
-[![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ###
