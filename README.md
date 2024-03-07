@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning <b>Full Stack Development</b><br>- 👯 I’m looking to collaborate on <b>Freelance Projects</b><br>- 😄 Pronouns: He/Him <br>- 📫 How to reach me: <a href="mailto:mayurbohra971@gmail.com">mayurbohra971@gmail.com</a> <br> - 🔗 Connect with me: 👇</p>
+<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning <b>Full Stack Development</b><br>- 👯 I’m looking to collaborate on <b>Freelance Projects</b><br>- 😄 Pronouns: He/Him <br>- 📫 How to reach me: <b><i>mayurbohra971@gmail.com</i></b> <br> - 🔗 Connect with me: 👇</p>
 
 <br clear="both">
 
