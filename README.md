@@ -6,17 +6,17 @@
 
 ###
 
-<h4 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
+<h4 align="left" style="text-align: justify">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
 
 ###
 
 <p align="left">I'm ... from .... Indore<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
-<!-- 
+
 <br clear="both">
 
-<img align="right" src="./images/mayur illustration.png"  /> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&"  />
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left"></> Languages & Frameworks</h3>
+<h3 align="left">🧑‍💻 Languages & Frameworks</h3>
 
 ###
 
@@ -79,33 +79,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mayurbohra9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mayurbohra9&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mayurbohra9/mayurbohra9/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Mayur Bohra</h1>
-<h3 align="center">I have made my interest in the Front-End Developer Enthusiasts.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurbohra9&label=Profile%20views&color=0e75b6&style=flat" alt="mayurbohra9" /> </p>
-
-- 👯 I’m looking to collaborate on **Freelancing Projects**
-
-- 📫 How to reach me **mayurbohra971@gmail.com**
-
-<h3 align="left">Connect with me:
-  <a href="https://linkedin.com/in/mayur-bohra-19415b199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-bohra-19415b199" height="18" width="18" /></a>
-</h3>
