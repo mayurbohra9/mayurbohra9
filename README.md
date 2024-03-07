@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning **Full Stack Development**<br>- 👯 I’m looking to collaborate on **Freelance Projects**<br>- 📫 How to reach me:</p>
+<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning <b>Full Stack Development</b><br>- 👯 I’m looking to collaborate on <b>Freelance Projects</b><br>- 📫 How to reach me:</p>
 
 ###
 
@@ -41,7 +41,7 @@
 ###
 <br clear="both">
 
-<table border="none>
+<table border="none">
 <tr>
 <td valign="top" width="50%">
 
@@ -66,6 +66,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   </div>
+
 </td>
 
 <td valign="top" width="50%">
@@ -103,10 +104,13 @@
 ###
 
 <h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
 
 ###
 
 ![](https://github-profile-trophy.vercel.app/?username=mayurbohra9&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
