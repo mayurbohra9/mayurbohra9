@@ -35,13 +35,13 @@
 ###
 <br clear="both">
 
-<h3 align="left"> 🎯 Skill Set</h3>
+<h3 align="center"> 🎯 Skill Set</h3>
 
-<table align="left">
-<tr>
-<td valign="top" width="60%">
+<table align="center" style="border:0;" border="0">
+<tr style="border:0;" border="0">
+<td valign="top" width="60%" style="border:0;" border="0">
 
-  <h3 align="center">🧑‍💻 Languages & Frameworks</h3>
+  <h3 align="left">🧑‍💻 Languages & Frameworks</h3>
 
   ###
 
@@ -65,9 +65,9 @@
 
 </td>
 
-<td valign="top" width="80%">
+<td valign="top" width="80%" style="border:0;" border="0">
 
-  <h3 align="center">🛠 Tools</h3>
+  <h3 align="left">🛠 Tools</h3>
 
   ###
 
@@ -83,8 +83,6 @@
 </tr>
 </table>
 
-<br>
-<br>
 
 ###
 
