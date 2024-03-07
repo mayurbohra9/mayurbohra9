@@ -16,12 +16,12 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&"  />
+<img align="right" src="./images/mayur illustration.png"  />
 
 ###
 
 <div align="left">
-  <a href="mayurbohra971@gmail.com" target="_blank">
+  <a href="mailto:mayurbohra971@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mayur-bohra/" target="_blank">
