@@ -5,9 +5,8 @@
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&left_text=Profile%20Visitors"  />
-  ---
-  [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&icon=5&color=0&left_text=Profile%20Visitors"  />
+
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
+<h3 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h3>
 
 ###
 
@@ -83,7 +82,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats</h3>
+<h3 align="center">🔥 My Stats</h3>
 
 ###
 
@@ -95,14 +94,20 @@
 
 ###
 
-## 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=mayurbohra9&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
-### 😂 Random Dev Meme
+<h3 align="center">😂 Random Dev Meme</h3>
+<div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ###
 
