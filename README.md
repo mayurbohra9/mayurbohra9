@@ -1,12 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 
+###
+
 <br clear="both">
-
-<div align="right">
-  ---
-  [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
-
-</div>
 
 ###
 
@@ -41,9 +37,9 @@
 
 <h3 align="center">My Skill Set</h3>
 
-<table border="0" align="center">
-<tr>
-<td valign="top" width="60%">
+<table align="center"  width="100%"  style="border:0px; width:100%;">
+<tr style="border: 0px;">
+<td valign="top" width="60%" style="border:0px; width:60%;">
 
   <h3 align="left">🧑‍💻 Languages & Frameworks</h3>
 
@@ -69,7 +65,7 @@
 
 </td>
 
-<td valign="top" width="60%">
+<td valign="top" width="60%" style="border:0px; width:60%;">
 
   <h3 align="left">🛠 Tools</h3>
 
@@ -126,3 +122,13 @@
 <img src="https://raw.githubusercontent.com/mayurbohra9/mayurbohra9/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+<div align="right">
+
+  ###
+
+  ---
+  [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
+
+</div>
