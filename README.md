@@ -14,13 +14,13 @@
 
 ###
 
-<h3 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h3>
+<h4 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
 
 ###
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...</p>
+<p align="left">- 🔭 I’m currently working on my Portfolio Website<br>- 🌱 I’m currently learning **Full Stack Development**<br>- 👯 I’m looking to collaborate on **Freelance Projects**<br>- 📫 How to reach me:</p>
 
 ###
 
@@ -41,9 +41,9 @@
 ###
 <br clear="both">
 
-<table>
+<table border="none>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
   <h3 align="left">🧑‍💻 Languages & Frameworks</h3>
 
@@ -68,7 +68,7 @@
   </div>
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
   <h3 align="left">🛠 Tools</h3>
 
@@ -103,9 +103,15 @@
 ###
 
 <h3 align="center">🏆 GitHub Trophies</h3>
+
+###
+
 ![](https://github-profile-trophy.vercel.app/?username=mayurbohra9&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 <h3 align="center">✍️ Random Dev Quote</h3>
+
+###
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <h3 align="center">😂 Random Dev Meme</h3>
@@ -116,5 +122,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mayurbohra9/mayurbohra9/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ###
