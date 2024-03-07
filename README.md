@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
+<h4 align="left" style="line-height:10px">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
 
 ###
 
