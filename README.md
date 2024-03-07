@@ -6,7 +6,9 @@
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&left_text=Profile%20Visitors"  />
+  ---
   [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 ###
