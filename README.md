@@ -6,6 +6,7 @@
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&left_text=Profile%20Visitors"  />
+  [![](https://visitcount.itsvg.in/api?id=mayurbohra9&icon=5&color=0)](https://visitcount.itsvg.in)
 </div>
 
 ###
@@ -89,6 +90,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mayurbohra9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
+
+###
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mayurbohra9&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ###
 
