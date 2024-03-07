@@ -35,13 +35,13 @@
 ###
 <br clear="both">
 
-<h3 align="center"> 🎯 Skill Set</h3>
+<h3 align="left"> 🎯 Skill Set</h3>
 
-<table align="center" style="border:0;" border="0">
-<tr style="border:0;" border="0">
-<td valign="top" width="60%" style="border:0;" border="0">
+<table align="left">
+<tr>
+<td valign="top" width="60%">
 
-  <h3 align="left">🧑‍💻 Languages & Frameworks</h3>
+  <h3 align="center">🧑‍💻 Languages & Frameworks</h3>
 
   ###
 
@@ -65,9 +65,9 @@
 
 </td>
 
-<td valign="top" width="80%" style="border:0;" border="0">
+<td valign="top" width="80%">
 
-  <h3 align="left">🛠 Tools</h3>
+  <h3 align="center">🛠 Tools</h3>
 
   ###
 
@@ -93,7 +93,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurbohra9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mayurbohra9&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
