@@ -2,23 +2,29 @@
 
 ###
 
-<img align="right" height="200" src="./images/mayur illustration.png"  />
+<br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&left_text=Profile%20Visitors"  />
+</div>
 
 ###
 
-<h4 align="left" style="text-align: justify">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
+<img align="right" height="220" src="./images/mayur illustration.png"  />
 
 ###
 
-<p align="left">I'm ... from .... Indore<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h4 align="left">🧑‍💻  I'm Mayur Bohra, a dedicated Software Engineer and Frontend Developer who believes in the power of technology to unite people. My passion lies in solving complex problems, and I stay at the cutting edge of web development and emerging tech trends. I also freelance as a website developer, always striving to exceed client expectations.</h4>
 
 ###
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mayurbohra9.mayurbohra9&"  />
+<p align="left">- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="mailto:mayurbohra971@gmail.com" target="_blank">
@@ -79,12 +85,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mayurbohra9&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurbohra9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurbohra9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mayurbohra9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-  ![Snake animation](https://github.com/mayurbohra9/mayurbohra9/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/mayurbohra9/mayurbohra9/output/snake.svg" alt="Snake animation" />
 
 ###
