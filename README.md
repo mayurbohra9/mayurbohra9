@@ -37,9 +37,9 @@
 
 <h3 align="center">My Skill Set</h3>
 
-<table align="center"  width="100%"  style="border:0px; width:100%;">
-<tr style="border: 0px;">
-<td valign="top" width="60%" style="border:0px; width:60%;">
+<table align="center" style="border:none;">
+<tr style="border:none;">
+<td valign="top" width="60%" style="border:none;">
 
   <h3 align="left">🧑‍💻 Languages & Frameworks</h3>
 
@@ -65,7 +65,7 @@
 
 </td>
 
-<td valign="top" width="60%" style="border:0px; width:60%;">
+<td valign="top" width="80%" style="border:none; width:60%;">
 
   <h3 align="left">🛠 Tools</h3>
 
@@ -124,7 +124,7 @@
 ###
 
 
-<div align="right">
+<div align="center">
 
   ###
 
