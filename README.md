@@ -8,7 +8,7 @@
 
 <br>
 
-<table><tr><td valign="top" width="50%">
+<table style="border:none"><tr><td valign="top" width="50%">
 
 🔭 I’m currently working as a Software Engineer at Capgemini  
   
